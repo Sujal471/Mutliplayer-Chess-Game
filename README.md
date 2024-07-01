@@ -1,1 +1,1 @@
-# Mutliplayer-Chess-Game
+# Multiiplayer-Chess-Game
